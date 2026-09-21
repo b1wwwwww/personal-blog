@@ -1,4 +1,4 @@
-j<x-layout>
+<x-layout>
     <x-slot:title>{{ $title }}</x-slot:title>
 
     {{-- Post 1 --}}
